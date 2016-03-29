@@ -36,7 +36,7 @@ while turns > 0:
             print "Sorry number not in the secret code. \n\n Please try again"
             print "You have", +turns, 'left'
        if turns == 0:
-            print "Sorry you lose"#change
+            print "Sorry you can't open the door without figuring the code"#change
        
 
 
